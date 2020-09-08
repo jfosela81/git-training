@@ -1,4 +1,3 @@
 Cambio para la rama CAMBIOS
 
-Contenido NUEVO en MASTER
-
+Contenido NUEVO creado en CAMBIO sin ERRORES
