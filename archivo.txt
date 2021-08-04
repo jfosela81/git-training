@@ -1,5 +1,7 @@
 Contenido inicial
 
+Ajustes en master
+
 Contenido nuevo de la feature
 
 Aportacion nueva para la feature
