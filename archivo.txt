@@ -1,3 +1,5 @@
 Contenido inicial
 
+Ajustes en master
+
 Contenido nuevo de la feature
