@@ -7,8 +7,5 @@ Contenido nuevo de la feature
 Aportacion nueva para la feature
 
 Nueva linea
-
-##############################
-*
-*
-*
+###############################
+// Comentario
