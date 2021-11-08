@@ -7,6 +7,3 @@ CONTENIDO ÚTIL para este archivo
 Nueva linea para archivo2
 
 ######################
-*
-*
-*
