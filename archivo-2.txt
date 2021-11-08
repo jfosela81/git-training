@@ -3,3 +3,5 @@ Cambio para la rama CAMBIOS
 Contenido NUEVO creado en CAMBIO
 
 CONTENIDO ÚTIL para este archivo
+
+Nueva linea para archivo2
