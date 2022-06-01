@@ -18,3 +18,8 @@ Corregimos el ERROR que se mostraba en la web
 <section class="nueva">
  <ul>
   <li>Parte 1</li>
+  <li>Parte 2</li>
+  <li>Parte 3</li>
+  <li>Parte 4</li>
+ </ul>
+</section>
