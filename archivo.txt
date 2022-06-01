@@ -23,3 +23,5 @@ Corregimos el ERROR que se mostraba en la web
   <li>Parte 4</li>
  </ul>
 </section>
+
+<textarea>Seccion nueva para escribir</textarea>
