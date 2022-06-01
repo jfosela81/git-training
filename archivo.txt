@@ -1,5 +1,5 @@
 <header>
-Contenido inicial CON ERROR SIN DETECTAR
+Contenido nuevo para añadir CON ERROR SIN DETECTAR
 </header>
 
 Ajustes en master
@@ -25,3 +25,8 @@ Corregimos el ERROR que se mostraba en la web
 </section>
 
 <textarea>Seccion nueva para escribir</textarea>
+
+<section class="otra">
+ <p>Párrafo 1</p>
+ <p>Párra
+</section>
