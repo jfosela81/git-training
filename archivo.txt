@@ -28,5 +28,6 @@ Corregimos el ERROR que se mostraba en la web
 
 <section class="otra">
  <p>Párrafo 1</p>
- <p>Párra
+ <p>Párrafo 2</p>
+ <p>Párrafo 3</p>
 </section>
