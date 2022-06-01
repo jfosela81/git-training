@@ -1,4 +1,6 @@
-Contenido inicial
+<header>
+Contenido inicial CON ERROR SIN DETECTAR
+</header>
 
 Ajustes en master
 
