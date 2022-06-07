@@ -1,1 +1,3 @@
 Otro fichero nuevo
+
+No hay nada, en este nuevo fichero
